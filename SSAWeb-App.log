@@ -1,0 +1,9 @@
+2019-04-04 09:52:54.154  WARN 13104 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=19h52m27s591ms535µs946ns).
+2019-04-04 10:18:58.748  WARN 13104 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m28s913ms205µs886ns).
+2019-04-04 10:39:48.550  INFO 13104 --- [http-nio-9090-exec-6] c.u.g.f.ssa.controller.SSAController     : ***genders list and states list generated***
+2019-04-04 10:39:48.553  INFO 13104 --- [http-nio-9090-exec-6] c.u.g.f.ssa.controller.SSAController     : ***SSAController:: Enrollment form generated***
+2019-04-04 10:39:58.065  INFO 13104 --- [RMI TCP Connection(2)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2019-04-04 10:39:58.155  INFO 13104 --- [RMI TCP Connection(2)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-04-04 10:39:58.163  INFO 13104 --- [RMI TCP Connection(2)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-04-04 10:39:58.245  INFO 13104 --- [RMI TCP Connection(2)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2019-04-04 10:39:58.281  INFO 13104 --- [RMI TCP Connection(2)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
